@@ -1,7 +1,7 @@
 # Custom Character LCD Project
 
 ### Description :
-My project in c programming language to use Character LCD to print custom character on both 4 pin Character LCD screen and 8 pin Character LCD screen.
+My project in c programming language to use Character LCD to print custom character on both 4-Bit Character LCD display and 8-Bit Character LCD display.
 
 ### Requirements :
 To build, compile and run this project successfully you need to use MPLAB X IDE with XC8 compiler, PIC18F4620 8-Bit Micro-conroller, pickit3, and 2 Character LCDs.
